@@ -3,7 +3,7 @@
   "AutoRead": true,
   "AutoRecording": true,
   "AutoReply": true,
-  "NamaSession": "sessions",
+  "NamaSession": "session.json",
   "NamaOwner": "Risky Official",
   "NamaBot": "Risky Botz",
   "NomorOwner": "6289531724196",
