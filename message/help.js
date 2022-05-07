@@ -1,7 +1,7 @@
 exports.infobot = (prefix) => {
 return`• ----------[ *INFO BOT* ]----------
 • *NAMA BOT :* Risky Botz
-• *NOMOR BOT :* 628951486278i
+• *NOMOR BOT :* 628951486278
 • *NAMA OWNER :* Risky Official
 • *NOMOR OWNER :* 6289531724196
 • *LINK :* wa.me/6289531724196
